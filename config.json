@@ -1,13 +1,13 @@
 {
 	"prefix":"l.",
-	"token":"NTQzMTE2NzgyMjQ0ODU1ODM5.XFxm6w.YCotlspvGI-WQAaikAQGT1NJ3Vo",
-	"voicechannel":"927835333737992214",
-	"logchannel":"927835495407435836",
+	"token":"",
+	"voicechannel":"",
+	"logchannel":"",
 	"activity":"LuxClub",
 	"list":[
 	{
 		"name":"Radio LuxClub SF",
-		"url":"http://stream.zeno.fm/zny9xgkaec9uv"
+		"url":"http://stream.fm/zny9xgkaec9uv"
 	}
 	]
 }
